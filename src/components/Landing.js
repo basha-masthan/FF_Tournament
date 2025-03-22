@@ -16,7 +16,7 @@ function Landing() {
         </ul>
       </div>
       <div className="auth-buttons">
-        <Link to="/signup"><button>Register</button></Link>
+        <Link to="/signup"><button>Register1</button></Link>
         <Link to="/login"><button>Login</button></Link>
       </div>
     </div>
